@@ -13,7 +13,7 @@
 </head>
 
 <body class="bg-rose-100">
-    <header>
+    <header class="bg-white shadow">
         <x-layouts.public-layout.header />
     </header>
     <main>
