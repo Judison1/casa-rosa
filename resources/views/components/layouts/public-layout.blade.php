@@ -19,7 +19,7 @@
     <main>
         {{ $slot }}
     </main>
-    <footer>
+    <footer class="bg-white">
         <x-layouts.public-layout.footer />
     </footer>
 </body>
