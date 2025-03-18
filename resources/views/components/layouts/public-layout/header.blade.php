@@ -5,20 +5,20 @@
     </div>
     <ul class="flex flex-col xl:flex-row">
         <li>
-            <a href="#" class="p-6 block hover:bg-rose-100 transition" title="Sobre nós">A Casa</a>
+            <a href="/#a-casa" class="p-6 block hover:bg-rose-100 transition" title="Sobre nós">A Casa Rosa</a>
         </li>
         <li>
-            <a href="#" class="p-6 block hover:bg-rose-100 transition" title="Parceiros">Parceiros</a>
+            <a href="/#parceiros" class="p-6 block hover:bg-rose-100 transition" title="Parceiros">Parceiros</a>
         </li>
         <li>
-            <a href="#" class="p-6 block hover:bg-rose-100 transition" title="Parceiros">Seja um doador</a>
+            <a href="/#seja-doador" class="p-6 block hover:bg-rose-100 transition" title="Parceiros">Seja um doador</a>
         </li>
         <li>
-            <a href="#" class="p-6 block hover:bg-rose-100 transition" title="Parceiros">Seja um voluntário</a>
+            <a href="/#seja-voluntario" class="p-6 block hover:bg-rose-100 transition" title="Parceiros">Seja um voluntário</a>
         </li>
 
         <li>
-            <a href="#" class="p-6 block hover:bg-rose-100 transition" title="Fale Conosco">Fale Conosco</a>
+            <a href="/#fale-conosco" class="p-6 block hover:bg-rose-100 transition" title="Fale Conosco">Fale Conosco</a>
         </li>
     </ul>
 </nav>
