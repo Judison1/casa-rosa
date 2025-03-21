@@ -1,6 +1,6 @@
 <x-layouts.public-layout>
     <section class="jumbotron w-full">
-        <div class="px-4 py-8 flex flex-col xl:flex-row items-center justify-center max-w-7xl mx-auto gap-4 h-[60vh]">
+        <div class="px-4 py-8 flex flex-col xl:flex-row items-center justify-center max-w-7xl mx-auto gap-4 xl:h-[60vh]">
             <div class="grow w-full xl:w-2/3 text-center gap-4 flex flex-col items-center justify-center">
                 <h2 class="text-3xl xl:text-7xl font-bold text-rose-200">A Nossa Luta é Todo Dia</h2>
                 <h3 class="text-xl xl:text-3xl font-semibold text-rose-300">Casa de Apoio a Mulher com Câncer - Santarém
@@ -10,7 +10,7 @@
         </div>
     </section>
 
-    <section id="parceiros" class="bg-white h-[30vh]">
+    <section id="parceiros" class="bg-white xl:h-[30vh]">
         <div class="w-full flex items-center justify-between max-w-7xl mx-auto flex-col gap-4 px-4 py-8">
             <h3 class="text-center text-xl font-semibold xl:text-2xl text-rose-500">Parceiros</h3>
             <div class="flex gap-4 w-full p-4 items-center justify-center">
