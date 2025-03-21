@@ -25,7 +25,7 @@
                 <div class="grow w-full xl:w-1/2">
                     <p class="text-justify text-xl">A Casa Rosa é uma instituição sem fins lucrativos que tem como objetivo
                         acolher mulheres com câncer em tratamento na cidade de Santarém - PA. A Casa Rosa foi fundada em
-                        [ano] e desde então tem ajudado mulheres a enfrentar o câncer com mais dignidade e amor.</p>
+                        2016 e desde então tem ajudado mulheres a enfrentar o câncer com mais dignidade e amor.</p>
                 </div>
                 <img src={{ asset('img/cancer-cuate.svg') }} class="w-96 xl:w-1/2" alt="Mulher com câncer">
             </div>
